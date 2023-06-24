@@ -9,13 +9,13 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBvnFsaOr9mjrkreEB3YLD4OkM9417rQBE",
-  authDomain: "react-insta-clone-96119.firebaseapp.com",
-  projectId: "react-insta-clone-96119",
-  storageBucket: "react-insta-clone-96119.appspot.com",
-  messagingSenderId: "575930337748",
-  appId: "1:575930337748:web:e13e38627d3b5ad2102e41",
-  measurementId: "G-7Z0PQY1PBJ",
+  apiKey: "AIzaSyCc_zoYJ_eBIt9HgiWqHuphwrNavMk8Dfo",
+  authDomain: "instagram-clone-ccd2d.firebaseapp.com",
+  projectId: "instagram-clone-ccd2d",
+  storageBucket: "instagram-clone-ccd2d.appspot.com",
+  messagingSenderId: "341522457015",
+  appId: "1:341522457015:web:2842419c5c24be2e2a4832",
+  measurementId: "G-V6EXMFB3HN"
 };
 
 // Initialize Firebase
