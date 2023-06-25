@@ -19,7 +19,10 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-const App = initializeApp(firebaseConfig);
+const App = initializeApp(firebaseConfig, {
+  experimentalForceLongPolling: true, // this line
+  useFetchStreams: false, // and this line
+})
 
 const db = getFirestore();
 
